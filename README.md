@@ -2,8 +2,6 @@
 
 React.js - Next.js - Material UI
 
-Video de presentación [acá](https://drive.google.com/file/d/1rLkndslwiJ9BVs4RJi6pC_Ikumv5ELfx/view?usp=sharing)
-
 ## Getting Started
 
 First, run the development server:
